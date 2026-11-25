@@ -1,4 +1,4 @@
-SadServers Labs
+SadServers Labs 
 
 My practical Linux troubleshooting exercises using "SadServers" (https://sadservers.com/).
 
